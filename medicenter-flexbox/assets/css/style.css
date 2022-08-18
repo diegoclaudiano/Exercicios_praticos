@@ -458,7 +458,7 @@ footer .widget_title_text {
 
 .footer_post,
 .footer_tweets {
-    list-style: url('/assets/imagens/icon_arrow_right_white.png');
+    list-style: url('/medicenter-flexbox/assets/imagens/icon_arrow_right_white.png');
     padding-left: 15px;
 }
 
@@ -493,7 +493,7 @@ footer .widget_title_text {
 }
 
 .social_icons .facebook {
-    background-image: url('/assets/imagens/facebook.png');
+    background-image: url('/medicenter-flexbox/assets/imagens/facebook.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -504,7 +504,7 @@ footer .widget_title_text {
 }
 
 .social_icons .twitter {
-    background-image: url('/assets/imagens/twitter.png');
+    background-image: url('/medicenter-flexbox/assets/imagens/twitter.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -515,7 +515,7 @@ footer .widget_title_text {
 }
 
 .social_icons .googleplus {
-    background-image: url('/assets/imagens/googleplus.png');
+    background-image: url('/medicenter-flexbox/assets/imagens/googleplus.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -526,7 +526,7 @@ footer .widget_title_text {
 }
 
 .social_icons .mail_dark {
-    background-image: url('/assets/imagens/mail_dark.png');
+    background-image: url('/medicenter-flexbox/assets/imagens/mail_dark.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
